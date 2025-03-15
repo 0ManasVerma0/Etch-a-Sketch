@@ -18,6 +18,15 @@ function boxMaker() {
     for(let i = 0; i<size; i++){
     const div = document.createElement("div");
     div.classList.add("box")
+
+    //hover effect
+    div.addEventListener('mouseenter', () => {
+        const r = Math.floor(Math.random()*256);
+        const g = Math.floor(Math.random()*256);
+        const b = Math.floor(Math.random()*256);
+        div.style.background = `rgb(${r}, ${g}, ${b})`;
+    })
+
     container.appendChild(div);
     }
 }
