@@ -23,11 +23,6 @@ CSS
 JavaScript
 <br>
 
-📸 Preview
-<br>
-
-<sub>(project is under development)</sub>
-
 💡 Ideas for Improvement
 <br>
 Add a color picker to choose drawing color.
@@ -37,11 +32,11 @@ Add a reset or clear grid button.
 Implement random color mode or eraser.
 <br>
 Make it mobile-friendly with touch support.
+<br>
 
 🧑‍🎨 Live Demo
 <br>
-
-project is under development
+https://0manasverma0.github.io/Etch-a-Sketch/
 
 📄 License
 <br>
