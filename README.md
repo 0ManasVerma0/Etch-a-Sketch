@@ -31,4 +31,5 @@ project is under development
 This project is open-source and available under the MIT License.
 
 author:
+<br>
 Manas verma :)
